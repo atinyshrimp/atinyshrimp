@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm atinyzen</h1>
 <h3 align="center">she/her | INFJ-A</h3>
+<h3 align="center">Aquarius ☼ Aries ↑ Sagittarius ☾</h3>
 <h3 align="center">An 19 year old French engineering student looking forward to work in the video game industry</h3>
 
 - 🔭 I’m currently working on **a portfolio website currently not yet hosted**
