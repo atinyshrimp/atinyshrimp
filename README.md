@@ -4,7 +4,7 @@
 <h3 align="center">Aquarius ☼ Aries ↑ Sagittarius ☾</h3>
 <h3 align="center">A 20 year old French engineering student looking forward to work in the video game industry</h3>
 
-- 🔭 I’m currently working on **a portfolio website not yet hosted**
+- 🔭 I’m currently working on **working with Unity3D**
 
 - 🌱 I’m currently learning **data science in Python, front-end dev and other languages (C#, C++, etc.) for school**
 
