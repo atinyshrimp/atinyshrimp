@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm atinyzen</h1>
-<h6 align="center">/eitini:zɘn/</h6>
+<h5 align="center">/eitini:zɘn/</h5>
 <h3 align="center">she/her | INFJ-A</h3>
 <h3 align="center">Aquarius ☼ Aries ↑ Sagittarius ☾</h3>
 <h3 align="center">A 20 year old French engineering student looking forward to work in the video game industry</h3>
 
-- 🔭 I’m currently working on **working with Unity3D**
+- 🔭 I’m currently working on **game development with Unity3D**
 
 - 🌱 I’m currently learning **data science in Python, front-end dev and other languages (C#, C++, etc.) for school**
 
